@@ -1,0 +1,14 @@
+* {
+    background-color: darksalmon;
+}
+
+a {
+    text-decoration: none;
+    color: darkslategrey;
+}
+.main-text {
+    color: aliceblue;
+}
+.video {
+ margin:15px
+}
